@@ -1,1 +1,1 @@
-# SSI
+# Seguridad de sistemas informáticos
